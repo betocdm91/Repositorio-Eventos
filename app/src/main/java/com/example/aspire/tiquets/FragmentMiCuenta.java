@@ -88,7 +88,19 @@ public class FragmentMiCuenta extends Fragment implements GoogleApiClient.OnConn
         startActivity(intent);
     }
 
+    /*@Override
+    public void onActivityResult(int requestCode, int resultCode, Intent data) {
+        super.onActivityResult(requestCode, resultCode, data);
+    }
+
     @Override
+    public void onConnectionFailed(@NonNull ConnectionResult connectionResult) {
+
+    }*/
+    
+    ////////////////////////////////////////////////////
+    
+     @Override
     public void onActivityResult(int requestCode, int resultCode, Intent data) {
         super.onActivityResult(requestCode, resultCode, data);
     }
