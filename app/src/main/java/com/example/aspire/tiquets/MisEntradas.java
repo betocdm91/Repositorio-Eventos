@@ -24,6 +24,21 @@ public class MisEntradas extends AppCompatActivity {
     ImageButton imgButtonRegresar;
 
 
+    /*@Override
+    protected void onCreate(Bundle savedInstanceState) {
+        super.onCreate(savedInstanceState);
+        Intent intent = getIntent();
+        setContentView(R.layout.activity_mis_entradas);
+        imgButtonRegresar = (ImageButton) findViewById(R.id.imageButtonRegresar2) ;
+        imgButtonRegresar.setOnClickListener(new View.OnClickListener() {
+            @Override
+            public void onClick(View v) {
+                Intent intent = new Intent(MisEntradas.this, MainActivity.class);
+                startActivity(intent);
+            }
+        });*/
+
+    
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
@@ -37,7 +52,6 @@ public class MisEntradas extends AppCompatActivity {
                 startActivity(intent);
             }
         });
-
 
         // get the listview
         expListView = (ExpandableListView) findViewById(R.id.expandableListViewEntradas);
