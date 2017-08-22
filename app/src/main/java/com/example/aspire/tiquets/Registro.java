@@ -14,7 +14,7 @@ import android.view.Gravity;
 /**
  * Created by Aspire on 18/08/2017.
  */
-
+//registro de los usuarios
 public class Registro extends AppCompatActivity{
 
     private Button buttonCrear;
