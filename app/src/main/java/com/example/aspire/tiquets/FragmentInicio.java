@@ -97,6 +97,21 @@ public class FragmentInicio extends Fragment{
                             dialogoEvento.show(getActivity().getFragmentManager(),"");
                         }
 
+                        /*else if (item.getTitle().equals("Guardar")){
+
+                            DBEventosGuardados event=new DBEventosGuardados(getActivity().getApplicationContext(), "DBEventos", null, 1);
+                            SQLiteDatabase db=event.getWritableDatabase();
+                            String resul ="";
+                            Log.d("asasasjasa",""+resul);
+                            db.execSQL("INSERT INTO Eventos (Nombre, Fecha, Hora, Informacion) VALUES('evento1','fecha1','hora1','informacion1')" );
+
+                            event.getAllUsos();
+
+                            db.close();
+                            //Toast toast1 = Toast.makeText(getApplicationContext(), "Evento ingresado correctamente", Toast.LENGTH_SHORT);
+                            //toast1.setGravity(Gravity.CENTER,0 ,0 );
+                        }*/
+                        
                         else if (item.getTitle().equals("Guardar")){
 
                             DBEventosGuardados event=new DBEventosGuardados(getActivity().getApplicationContext(), "DBEventos", null, 1);
