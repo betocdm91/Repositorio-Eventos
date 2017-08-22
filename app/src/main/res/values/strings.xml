@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Tiquets</string>
+    <string name="action_settings">Settings</string>
+    <string name="section_format">Hello World from section: %1$d</string>
+    <string name="title_activity_maps">Map</string>
+
+    <string name="facebook_app_id">1923305664609572</string>
+    <string name="fb_login_protocol_scheme">fb1923305664609572</string>
+
+</resources>

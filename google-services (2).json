@@ -1,0 +1,143 @@
+{
+  "project_info": {
+    "project_number": "278878946742",
+    "firebase_url": "https://applogin1-b0bff.firebaseio.com",
+    "project_id": "applogin1-b0bff",
+    "storage_bucket": "applogin1-b0bff.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:278878946742:android:a7d4d26f6c50cbd0",
+        "android_client_info": {
+          "package_name": "com.example.aspire.loginfirebase"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "278878946742-i42e4p3hi0l90r1mihp9iq72n3hcdgn8.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.aspire.loginfirebase",
+            "certificate_hash": "69388dc71ac1a3a0397b598f47c267ce8dc07762"
+          }
+        },
+        {
+          "client_id": "278878946742-mkkqfhp13s2deqge6c3u7rt4li3pu8dn.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAgnIE2-G3XyeEA9HZoLt6Mspm8CRhuAfo"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "278878946742-mkkqfhp13s2deqge6c3u7rt4li3pu8dn.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:278878946742:android:c8dcda07d4ec6cab",
+        "android_client_info": {
+          "package_name": "com.example.aspire.aplicacionepacientes"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "278878946742-b3kvaalheupbmbps4kr4pl6mg5u6mt1j.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.aspire.aplicacionepacientes",
+            "certificate_hash": "69388dc71ac1a3a0397b598f47c267ce8dc07762"
+          }
+        },
+        {
+          "client_id": "278878946742-mkkqfhp13s2deqge6c3u7rt4li3pu8dn.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAgnIE2-G3XyeEA9HZoLt6Mspm8CRhuAfo"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "278878946742-mkkqfhp13s2deqge6c3u7rt4li3pu8dn.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:278878946742:android:b4bf4bba2623f814",
+        "android_client_info": {
+          "package_name": "com.example.aspire.tiquets"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "278878946742-klv9pbatts6ugn4b1stv51cgrgbpbt8b.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.aspire.tiquets",
+            "certificate_hash": "69388dc71ac1a3a0397b598f47c267ce8dc07762"
+          }
+        },
+        {
+          "client_id": "278878946742-mkkqfhp13s2deqge6c3u7rt4li3pu8dn.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAgnIE2-G3XyeEA9HZoLt6Mspm8CRhuAfo"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "278878946742-mkkqfhp13s2deqge6c3u7rt4li3pu8dn.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
